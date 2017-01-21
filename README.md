@@ -5,3 +5,5 @@ use matchtemplate method from cv2 package to find mathes with template picture, 
 
 sperm : template tree, because of rotation we set the first picture bigger than orginal sperm sample and after rotation we crop extra aria. 
 test : picture with a sample tree in it but in different size
+
+this method just find the most similiar part to sample, in next code we try to make threshold for similiar photo and mark all of them
